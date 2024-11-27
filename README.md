@@ -1,1 +1,1 @@
-Map componet Practice in react
+Mapping Data to component practice
